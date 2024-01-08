@@ -6,9 +6,13 @@ A space is required for each word as you type.
 
 # Packages required to run sokudoku
 pip install pytesseract
+
 brew install mecab
+
 brew install mecab-ipadic
+
 pip install unidic-lite  
+
 pip install mecab-python3
 
 # Result of running sokudoku
