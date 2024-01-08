@@ -3,6 +3,7 @@ This is a programmed version of what is called Spritz, in which letters flow at 
 This reduces visual fatigue as the user no longer needs to follow the text with their eyes when reading.
 The program displays either the text of the image you have entered or the text you have typed word by word.
 A space is required for each word as you type.
+https://pypi.org/project/sokudoku/
 
 # Packages required to run sokudoku
 pip install pytesseract
